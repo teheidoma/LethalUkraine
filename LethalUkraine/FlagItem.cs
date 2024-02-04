@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace LethalCompanyTemplate;
+namespace LethalUkraine;
 
 public class FlagItem : GrabbableObject {
     public AudioClip AudioClip;

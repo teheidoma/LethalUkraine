@@ -7,7 +7,7 @@ using LethalLib;
 using LethalLib.Modules;
 using UnityEngine;
 
-namespace LethalCompanyTemplate;
+namespace LethalUkraine;
 
 [BepInPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_NAME, PluginInfo.PLUGIN_VERSION)]
 [BepInDependency(Plugin.ModGUID)]
@@ -38,13 +38,16 @@ public class LethalUkrainePlugin : BaseUnityPlugin {
         var flagItem = bundle.LoadAsset<Item>("assets/flag.asset");
         NetworkPrefabs.RegisterNetworkPrefab(flagItem.spawnPrefab);
         Items.RegisterScrap(flagItem, 60, Levels.LevelTypes.All);
-        Items.RegisterShopItem(flagItem, 10);
 
         atb = bundle.LoadAsset<GameObject>("assets/atb.asset");
 
         var revo = bundle.LoadAsset<Item>("assets/revo.asset");
         NetworkPrefabs.RegisterNetworkPrefab(revo.spawnPrefab);
         Items.RegisterShopItem(revo, 30);
+
+        var salut = bundle.LoadAsset<Item>("assets/salut.asset");
+        NetworkPrefabs.RegisterNetworkPrefab(salut.spawnPrefab);
+        Items.RegisterShopItem(salut, 20);
 
         harmony.PatchAll(typeof(AtbCompanyPatch));
         NetcodePatcher();

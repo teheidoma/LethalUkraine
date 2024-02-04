@@ -4,7 +4,7 @@ using GameNetcodeStuff;
 using Unity.Netcode;
 using UnityEngine;
 
-namespace LethalCompanyTemplate;
+namespace LethalUkraine;
 
 public class RevoBuff : NetworkBehaviour {
     public float secondsLeft;
@@ -17,7 +17,9 @@ public class RevoBuff : NetworkBehaviour {
     }
 
     public override void OnDestroy() {
-        if (Math.Abs(_playerController.movementSpeed - originalSpeed) > 0.1f) _playerController.movementSpeed = originalSpeed;
+        if (Math.Abs(_playerController.movementSpeed - originalSpeed) > 0.1f) {
+            _playerController.movementSpeed = originalSpeed;
+        }
     }
 
     private IEnumerator SpeedUp(PlayerControllerB player) {
@@ -32,6 +34,16 @@ public class RevoBuff : NetworkBehaviour {
         LethalUkrainePlugin.logger.LogInfo($"PLAYER {player.playerUsername} end buff with REVASIK");
 
         player.movementSpeed = originalSpeed;
+        EndEffectServerRpc();
+    }
+
+    [ServerRpc]
+    public void EndEffectServerRpc() {
+        EndEffectClientRpc();
+    }
+
+    [ClientRpc]
+    public void EndEffectClientRpc() {
         Destroy(this);
     }
 }

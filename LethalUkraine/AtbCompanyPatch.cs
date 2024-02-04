@@ -3,16 +3,15 @@ using HarmonyLib;
 using Unity.Netcode;
 using UnityEngine;
 
-namespace LethalCompanyTemplate;
+namespace LethalUkraine;
 
 [HarmonyPatch(typeof(RoundManager))]
 public class AtbCompanyPatch {
     [HarmonyPostfix]
     [HarmonyPatch(typeof(RoundManager), "RefreshEnemiesList")]
     private static void RefreshEnemiesList(RoundManager __instance) {
-        LethalUkrainePlugin.logger.LogInfo("Spawning atb logo");
         if (__instance.currentLevel.name == "CompanyBuildingLevel" && !HasAtb()) {
-            LethalUkrainePlugin.logger.LogInfo("Spawning atb logo 2");
+            LethalUkrainePlugin.logger.LogInfo("Spawning atb logo");
             var atb = Object.Instantiate(getAtbLogo(), new Vector3(-28.1707f, 3.4476f, -31.9498f), Quaternion.Euler(0, -90, 0));
             atb.GetComponent<NetworkObject>().Spawn();
         }

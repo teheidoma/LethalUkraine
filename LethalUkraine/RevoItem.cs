@@ -1,28 +1,18 @@
 ﻿using Unity.Netcode;
 
-namespace LethalCompanyTemplate;
+namespace LethalUkraine;
 
-public class RevoItem : PhysicsProp {
+public class RevoItem : GrabbableObject {
     public override void ItemActivate(bool used, bool buttonDown = true) {
-        if (playerHeldBy != null) {
-            if (playerHeldBy.GetComponent<RevoBuff>()) {
-                LethalUkrainePlugin.logger.LogInfo("PLAYER ALREADY HAVE BUFF");
-                return;
-            }
-
-            playerHeldBy.activatingItem = true;
-            LethalUkrainePlugin.logger.LogInfo("ITEM CONSUMED");
-            UseRevoServerRpc();
+        if (playerHeldBy.GetComponent<RevoBuff>()) {
+            LethalUkrainePlugin.logger.LogInfo("PLAYER ALREADY HAVE BUFF");
+            return;
         }
-    }
 
-    public override void PocketItem() {
-        if (IsOwner && playerHeldBy != null) {
-            isPocketed = true;
-            EnableItemMeshes(false);
-        }
+        playerHeldBy.activatingItem = true;
+        LethalUkrainePlugin.logger.LogInfo("ITEM CONSUMED");
+        UseRevoServerRpc();
     }
-
 
     [ServerRpc(RequireOwnership = false)]
     public void UseRevoServerRpc() {
