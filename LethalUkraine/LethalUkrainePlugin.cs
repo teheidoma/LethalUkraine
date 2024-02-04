@@ -9,7 +9,7 @@ using UnityEngine;
 
 namespace LethalUkraine;
 
-[BepInPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_NAME, PluginInfo.PLUGIN_VERSION)]
+[BepInPlugin("LethalUkraine", "LethalUkraine", "0.0.7")]
 [BepInDependency(Plugin.ModGUID)]
 public class LethalUkrainePlugin : BaseUnityPlugin {
     public static LethalUkrainePlugin Instance;
