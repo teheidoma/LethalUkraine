@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3013a3d8-f218-4563-9779-7e5d57fde088" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate.sln" beforeDir="false" afterPath="$PROJECT_DIR$/LethalUkraine.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/AtbCompanyPatch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/FlagItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/LethalCompanyTemplate.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/LethalUkrainePlugin.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/NuGet.Config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/RevoBuff.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/RevoItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/Debug/netstandard2.1/LethalCompanyTemplate.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/Debug/netstandard2.1/LethalCompanyTemplate.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/Debug/netstandard2.1/LethalCompanyTemplate.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/Debug/netstandard2.1/LethalCompanyTemplate.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/Debug/netstandard2.1/LethalCompanyTemplate.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/Debug/netstandard2.1/LethalCompanyTemplate.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/Debug/netstandard2.1/LethalCompanyTemplate.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/Debug/netstandard2.1/LethalCompanyTemplate.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/Debug/netstandard2.1/LethalCompanyTemplate.sourcelink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/Debug/netstandard2.1/LethalUkraine.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/Debug/netstandard2.1/PluginInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/LethalCompanyTemplate.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/LethalCompanyTemplate.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/LethalCompanyTemplate.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/rider.project.model.nuget.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LethalCompanyTemplate/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/release/manifest.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSON File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0929cc57cccc447eb9a7bba4c9c1372d4e00/26/2d9109d8/AssetBundle.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2d33ecde6368465d8a61eb93a5dd6c552fc00/db/0ad7913c/HarmonyPostfix.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5282d06aa4a9459197a45fac2d771e982600/19/7cf67078/ChatCommandPatch.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5282d06aa4a9459197a45fac2d771e982600/7f/1527ea20/BuyableShotgunBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6a18188ce6264976a9218286caeb57f41ea00/6d/e3579e4c/BaseUnityPlugin.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/719309e0725542629c20fb18f952124f12a00/1e/bcfd5db8/Enemies.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/719309e0725542629c20fb18f952124f12a00/48/01aa24fc/MapObjects.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/719309e0725542629c20fb18f952124f12a00/77/5ff2e4c8/SpawnableMapObjectDef.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/719309e0725542629c20fb18f952124f12a00/a2/e6ed1048/Items.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/719309e0725542629c20fb18f952124f12a00/d4/ec38d46d/Plugin.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/07/398461aa/ShotgunItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/08/9e29f5d2/BoomboxItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/0b/ab68d40f/QuickMenuManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/15/ead92d85/GrabbableObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/17/4ffc9476/PlayerControllerB.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/30/b75b4fb0/HauntedMaskItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/33/b43741b1/ForestGiantAI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/36/ff8d626d/RoundManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/3d/33ef4257/StartOfRound.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/43/64528920/FlashlightItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/47/b0d99b1b/SpawnSyncedObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/59/843153de/PhysicsProp.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/6b/5c60b783/DungeonGenerator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/71/383f459d/EnemyAI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/79/7269134d/SelectableLevel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/8f/a035fe66/GiftBoxItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/98/f29672b5/SpawnableMapObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/aa/89fe1069/SprayPaintItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/aa/e5ad15d5/Item.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/e3/72587dd8/HoarderBugAI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/af9b1eec498a45aebd42601d6ab85015154600/e9/fe32b8be/EnemyType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/fd13662b71b342b1ada44c901c5f19cb101400/a5/cf5c38fe/Resources.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/fd13662b71b342b1ada44c901c5f19cb101400/b0/65838442/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/af9b1eec498a45aebd42601d6ab85015154600/2d/dc5c8879/Assembly-CSharp.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../LethalCompanyUnityTemplate/Library/PackageCache/com.unity.render-pipelines.high-definition@14.0.8/Runtime/Material/Lit/Lit.shader" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2bMnMqlaiwDfUnwnCYYYVxCSX51" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\novak\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\novak\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\novak\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3013a3d8-f218-4563-9779-7e5d57fde088" name="Changes" comment="" />
+      <created>1706033770956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706033770956</updated>
+      <workItem from="1706033773451" duration="24662000" />
+      <workItem from="1706065124146" duration="1910000" />
+      <workItem from="1706096650766" duration="11073000" />
+      <workItem from="1706108123939" duration="12000" />
+      <workItem from="1706108650650" duration="1300000" />
+      <workItem from="1706116771601" duration="336000" />
+      <workItem from="1706117202231" duration="3405000" />
+      <workItem from="1706143475499" duration="5517000" />
+      <workItem from="1706457308772" duration="2521000" />
+      <workItem from="1706890616869" duration="1058000" />
+    </task>
+    <task id="LOCAL-00001" summary="damn">
+      <option name="closed" value="true" />
+      <created>1706116858230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706116858230</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="damn" />
+    <option name="LAST_COMMIT_MESSAGE" value="damn" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

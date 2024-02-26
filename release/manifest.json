@@ -1,9 +1,9 @@
-﻿{
-  "name": "LethalUkraine",
-  "version_number": "0.0.5",
-  "website_url": "https://teheidoma.com",
-  "description": "YOUUU FINALLY SOME UKRAINE IN MY LETHAL",
-  "dependencies": [
-    "Evaisa-LethalLib-0.13.2"
-  ]
+{
+    "name": "LethalUkraine",
+    "version_number": "0.0.7",
+    "website_url": "https://github.com/teheidoma/LethalUkraine",
+    "description": "YOUUU FINALLY SOME UKRAINE IN MY LETHAL",
+    "dependencies": [
+        "Evaisa-LethalLib-0.13.2"
+    ]
 }
